@@ -1,0 +1,13 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 16px;
+}
+
+
+image, video,audio, map, iframe{
+  max-width: 100%;
+  height: auto;
+}
