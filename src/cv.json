@@ -50,9 +50,7 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
@@ -124,9 +122,7 @@
       "startDate": "2023-10-12",
       "endDate": "2023-11-11",
       "description": "This example shows how to implement JWT token-based authentication and authorization in a Spring Boot application.",
-      "highlights": [
-        "Java y Spring Boot"
-      ],
+      "highlights": ["Java y Spring Boot"],
       "url": "https://github.com/Angel-Raa/GuardianAPI"
     },
     {
@@ -135,10 +131,7 @@
       "startDate": "2023-11-01",
       "endDate": "2023-11-28",
       "description": "API Restful CRUD Blog usando Spring Boot 3, Spring Security 6, JWT, PostgreSQL y Spring Data Jpa.",
-      "highlights": [
-        "Blog",
-        "Api Rest"
-      ],
+      "highlights": ["Blog", "Api Rest"],
       "url": "https://github.com/Angel-Raa/API-Blog"
     },
     {
@@ -147,9 +140,7 @@
       "startDate": "2024-01-20",
       "endDate": "",
       "description": "El proyecto consiste en desarrollar un sistema de gestión escolar completo para escuelas primarias y secundarias.",
-      "highlights": [
-        "Sistema de Gestión Escolar"
-      ],
+      "highlights": ["Sistema de Gestión Escolar"],
       "url": "https://github.com/Angel-Raa/School-Manager"
     }
   ]
