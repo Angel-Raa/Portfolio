@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Angel Rafael Aguero Aquino",
+    "label": "Desarrollador Full Stack en Formación, Estudiante de Ingeniería de Sistemas.",
+    "image": "https://media.licdn.com/dms/image/D5603AQFlq05sNUEbvQ/profile-displayphoto-shrink_200_200/0/1694121567281?e=1712793600&v=beta&t=s20v5e3yA_dQ_7CL8YkEkHgqQn4HLcuIAO8xsQUUMQM",
+    "email": "angelagueror23@gmail.com",
+    "phone": "1+8294124929",
+    "url": "https://johndoe.com",
+    "summary": "Soy Desarrollador Web y, al mismo tiempo, estoy inmerso en mi formación como estudiante de Ingeniería de Sistemas Computacionales. Resido en Santo Domingo Oeste, República Dominicana.",
+    "location": {
+      "address": "calle Rogelio Roselle",
+      "postalCode": "",
+      "city": "Santo Domingo Oeste",
+      "countryCode": "RD",
+      "region": "Caribe."
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "@__AAguero_",
+        "url": "https://twitter.com/_AAguero_"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Angel Aguero",
+        "url": "https://www.linkedin.com/in/angel-aguero/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Angel-Raa",
+        "url": "https://github.com/Angel-Raa"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-10",
+      "summary": "Description…"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Dominicana O&M",
+      "url": "https://www.udoym.edu.do/",
+      "area": "Ingeniero de Sistema de Computacionales",
+      "startDate": "2021-05-21",
+      "endDate": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "TypeScript"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Vue js"
+    },
+    {
+      "name": "Pinia"
+    },
+    {
+      "name": "Vuetify"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "Spring Boot"
+    },
+    {
+      "name": "Spring Data"
+    },
+    {
+      "name": "Spring Security"
+    },
+    {
+      "name": "PostgreSql"
+    },
+    {
+      "name": "MongoDB"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GuardianAPI",
+      "isActive": false,
+      "startDate": "2023-10-12",
+      "endDate": "2023-11-11",
+      "description": "This example shows how to implement JWT token-based authentication and authorization in a Spring Boot application.",
+      "highlights": [
+        "Java y Spring Boot"
+      ],
+      "url": "https://github.com/Angel-Raa/GuardianAPI"
+    },
+    {
+      "name": "API-Blog",
+      "isActive": false,
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-28",
+      "description": "API Restful CRUD Blog usando Spring Boot 3, Spring Security 6, JWT, PostgreSQL y Spring Data Jpa.",
+      "highlights": [
+        "Blog",
+        "Api Rest"
+      ],
+      "url": "https://github.com/Angel-Raa/API-Blog"
+    },
+    {
+      "name": "School-Manager",
+      "isActive": true,
+      "startDate": "2024-01-20",
+      "endDate": "",
+      "description": "El proyecto consiste en desarrollar un sistema de gestión escolar completo para escuelas primarias y secundarias.",
+      "highlights": [
+        "Sistema de Gestión Escolar"
+      ],
+      "url": "https://github.com/Angel-Raa/School-Manager"
+    }
+  ]
+}
