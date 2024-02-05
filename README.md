@@ -5,7 +5,7 @@
 
 Si estás trabajando en tu propio CV utilizando JSON, puedes utilizar el [esquema JSON de CV](https://jsonresume.org/schema/) proporcionado por JSON Resume. 
 
-Basado en el diseño de: [repositorio](https://github.com/BartoszJarocki/cv).
+Basado en el diseño de [Bartosz Jarocki](https://github.com/BartoszJarocki/cv)
 
 Asegúrate de editar el archivo `cv.json` según tus necesidades para crear tu propio Portafolio/CV imprimible.
 
