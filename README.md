@@ -1,7 +1,7 @@
 ![](https://github.com/Angel-Raa/Portfolio/blob/main/src/components/image/cv.png)
 
 ## 🛠️ Tecnologías Utilizadas
-1) **Vue3**
+1) **Vuejs**
 2) **Typescript**
 
 ## Esquema JSON de CV y Diseño de Referencia
