@@ -17,8 +17,8 @@ import SkillsSection from './components/section/SkillsSection.vue'
     <ProjectSection />
     <EducatioSection />
     <SkillsSection />
-    <FooterSection />
   </main>
+  <FooterSection />
 </template>
 
 <style>
