@@ -1,8 +1,8 @@
 ![](https://github.com/Angel-Raa/Portfolio/blob/main/src/components/image/cv.png)
 
-# 🛠️ Stack
-1) Vue 3
-2) Typescript
+## 🛠️ Tecnologías Utilizadas
+1) **Vue3**
+2) **Typescript**
 
 ## Esquema JSON de CV y Diseño de Referencia
 
