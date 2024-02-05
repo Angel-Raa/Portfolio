@@ -4,6 +4,7 @@ import EducatioSection from './components/section/EducatioSection.vue'
 import ExperienceSection from './components/section/ExperienceSection.vue'
 //import ExperienceSection from './components/section/ExperienceSection.vue'
 import HeroSection from './components/section/HeroSection.vue'
+import FooterSection from './components/section/FooterSection.vue'
 import ProjectSection from './components/section/ProjectSection.vue'
 import SkillsSection from './components/section/SkillsSection.vue'
 </script>
@@ -16,6 +17,7 @@ import SkillsSection from './components/section/SkillsSection.vue'
     <ProjectSection />
     <EducatioSection />
     <SkillsSection />
+    <FooterSection />
   </main>
 </template>
 
