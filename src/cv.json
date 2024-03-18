@@ -142,6 +142,15 @@
       "description": "El proyecto consiste en desarrollar un sistema de gestión escolar completo para escuelas primarias y secundarias.",
       "highlights": ["Sistema de Gestión Escolar"],
       "url": "https://github.com/Angel-Raa/School-Manager"
+    },
+    {
+      "name": "Vue-kanban",
+      "isActive": false,
+      "startDate": "2024-02-16",
+      "endDate": "2024-02-18",
+      "description": "Proyecto que tiene como objetivo desarrollar una aplicación de tablero Kanban con funcionalidades interactivas.",
+      "highlights": ["Kanban-board"],
+      "url": "https://github.com/Angel-Raa/vuejs-kanban"
     }
   ]
 }

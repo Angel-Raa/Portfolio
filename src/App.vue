@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import AbouSection from './components/section/AbouSection.vue'
 import EducatioSection from './components/section/EducatioSection.vue'
-import ExperienceSection from './components/section/ExperienceSection.vue'
-//import ExperienceSection from './components/section/ExperienceSection.vue'
 import HeroSection from './components/section/HeroSection.vue'
 import FooterSection from './components/section/FooterSection.vue'
 import ProjectSection from './components/section/ProjectSection.vue'
