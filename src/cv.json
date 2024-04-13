@@ -151,6 +151,15 @@
       "description": "Proyecto que tiene como objetivo desarrollar una aplicación de tablero Kanban con funcionalidades interactivas.",
       "highlights": ["Kanban-board"],
       "url": "https://github.com/Angel-Raa/vuejs-kanban"
+    },
+    {
+      "name": "TMDb Explorer",
+      "isActive": false,
+      "startDate": "2024-04-01",
+      "endDate": "2024-04-14",
+      "description": "TMDb Explorer",
+      "highlights": ["Nuxt", "Vue", "TypeScript"],
+      "url": "https://nuxt-tmdb-b8bmoudbc-angel-raas-projects.vercel.app/"
     }
   ]
 }
