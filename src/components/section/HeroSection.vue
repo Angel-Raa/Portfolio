@@ -63,7 +63,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(' • ')
         </footer>
       </div>
       <figure>
-        <img v-bind:src="image" :alt="name" />
+        <img src="/src/assets//foto.jpeg" alt="Foto" />
       </figure>
     </div>
   </section>
