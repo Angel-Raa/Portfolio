@@ -135,23 +135,15 @@
       "url": "https://github.com/Angel-Raa/API-Blog"
     },
     {
-      "name": "School-Manager",
-      "isActive": true,
-      "startDate": "2024-01-20",
-      "endDate": "",
-      "description": "El proyecto consiste en desarrollar un sistema de gestión escolar completo para escuelas primarias y secundarias.",
-      "highlights": ["Sistema de Gestión Escolar"],
-      "url": "https://github.com/Angel-Raa/School-Manager"
-    },
-    {
-      "name": "Vue-kanban",
+      "name": "POS-Sistema de punto de venta",
       "isActive": false,
-      "startDate": "2024-02-16",
-      "endDate": "2024-02-18",
-      "description": "Proyecto que tiene como objetivo desarrollar una aplicación de tablero Kanban con funcionalidades interactivas.",
-      "highlights": ["Kanban-board"],
-      "url": "https://github.com/Angel-Raa/vuejs-kanban"
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "description": "POS es un sistema de punto de venta completo desarrollado para gestionar eficientemente las operaciones de ventas en un entorno comercial.",
+      "highlights": [ "Java", "Spring Boot", "MVC", "Docker", "Spring Security", "Thymeleaf", "iTextPDF"],
+      "url": "https://github.com/Angel-Raa/POS-Spring-Boot-Thymeleaf"
     },
+
     {
       "name": "TMDb Explorer",
       "isActive": false,
