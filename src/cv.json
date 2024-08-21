@@ -50,7 +50,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -95,6 +97,15 @@
     },
     {
       "name": "MongoDB"
+    },
+    {
+      "name": "RESTful APIs"
+    },
+    {
+      "name": "ORM (Hibernate, JPA)"
+    },
+    {
+      "name": "Pruebas unitarias (JUnit, Mockito)"
     }
   ],
   "languages": [
@@ -110,7 +121,9 @@
       "startDate": "2023-10-12",
       "endDate": "2023-11-11",
       "description": "El proyecto se centra en el desarrollo de una API que gestiona roles y permisos para usuarios, con un enfoque especial en la administración de productos y categorías.",
-      "highlights": ["Java y Spring Boot"],
+      "highlights": [
+        "Java y Spring Boot"
+      ],
       "url": "https://github.com/Angel-Raa/GuardianAPI"
     },
     {
@@ -119,7 +132,10 @@
       "startDate": "2023-11-01",
       "endDate": "2023-11-28",
       "description": "La API de Blog es una aplicación backend desarrollada para gestionar un blog, permitiendo a los usuarios realizar operaciones como la creación y gestión de publicaciones, comentarios y autenticación mediante JWT (JSON Web Tokens)",
-      "highlights": ["Blog", "Api Rest"],
+      "highlights": [
+        "Blog",
+        "Api Rest"
+      ],
       "url": "https://github.com/Angel-Raa/API-Blog"
     },
     {
@@ -128,17 +144,28 @@
       "startDate": "2024-07-01",
       "endDate": "",
       "description": "POS es un sistema de punto de venta completo desarrollado para gestionar eficientemente las operaciones de ventas en un entorno comercial.",
-      "highlights": [ "Java", "Spring Boot", "MVC", "Docker", "Spring Security", "Thymeleaf", "iTextPDF"],
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "MVC",
+        "Docker",
+        "Spring Security",
+        "Thymeleaf",
+        "iTextPDF"
+      ],
       "url": "https://github.com/Angel-Raa/POS-Spring-Boot-Thymeleaf"
     },
-
     {
       "name": "TMDb Explorer",
       "isActive": false,
       "startDate": "2024-04-01",
       "endDate": "2024-04-14",
       "description": "TMDb Explorer",
-      "highlights": ["Nuxt", "Vue", "TypeScript"],
+      "highlights": [
+        "Nuxt",
+        "Vue",
+        "TypeScript"
+      ],
       "url": "https://nuxt-tmdb-chi.vercel.app/"
     }
   ]
