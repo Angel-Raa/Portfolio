@@ -167,6 +167,18 @@
         "TypeScript"
       ],
       "url": "https://nuxt-tmdb-chi.vercel.app/"
+    }, 
+    {
+      "name": "Ecommerce App",
+      "isActive": false,
+      "startDate": "2024-10-01",
+      "endDate": "2025-01-03",
+      "description": "Ecommerce App",
+      "highlights": [
+        "React",
+        "TypeScript"
+      ],
+      "url": "https://zonalmovil.netlify.app/"
     }
   ]
 }
